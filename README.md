@@ -3,6 +3,8 @@
 
 A Notepad App that seamlessly integrates the power of Django and React.js frameworks. With this app, you can jot down your thoughts, ideas, and reminders effortlessly. Whether you're creating new notes, editing existing ones, or organizing your thoughts.
 
+## Preview
+![Preview](./img.png)
 
 ## Demo
 
