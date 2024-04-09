@@ -5,7 +5,7 @@ A Notepad App that seamlessly integrates the power of Django and React.js framew
 
 ## Demo
 
-![](notpad.gif)
+![](note.mp4)
 
 ## Installation
 
